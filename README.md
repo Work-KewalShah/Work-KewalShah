@@ -89,15 +89,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Work-KewalShah"><img alt="Kewal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Work-KewalShah&custom_title=Kewal's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🏆GitHub Trophies
