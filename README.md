@@ -2,16 +2,7 @@
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Vision+Engineer;A+Python+enthusiast!;" /></a>
 </p>
-
-<p align ="center">
-  <a href="mailto:work.kewalshah@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/kewal-shah-work/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-</p>
-
+<br>
 
 <p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more.
 	
@@ -88,7 +79,18 @@ My passion lies in crafting analytical and machine learning models to transform 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Work-KewalShah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## Contact Me
 
+I'd love to hear from you and answer any questions you may have about the applications or any other projects. Feel free to reach out to me:
+
+<p align ="center">
+  <a href="mailto:work.kewalshah@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/kewal-shah-work/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+</p>
 
 ----
 
