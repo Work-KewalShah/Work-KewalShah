@@ -13,7 +13,9 @@
 </p>
 
 
-<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more. My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
+<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more.
+	
+My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
 </p>
 
 
