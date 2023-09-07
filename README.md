@@ -13,7 +13,7 @@
 </p>
 
 
-<p >I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more. My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
+<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more. My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
 </p>
 
 
@@ -57,21 +57,13 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/Work-KewalShah/Python_Tkinter_Apps">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Python_Tkinter_Apps&theme=tokyonight" />
 
 </a>  
-
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
-
-</a> 
 
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
