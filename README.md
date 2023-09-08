@@ -56,11 +56,11 @@ My passion lies in crafting analytical and machine learning models to transform 
 
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 
-<a href="https://github.com/Work-KewalShah/Weather_Report_Application">
+<a href="https://github.com/Work-KewalShah/Weather_Report_App">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Weather_Report_Application&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Weather_Report_App&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/Work-KewalShah/Python_Tkinter_Apps">
