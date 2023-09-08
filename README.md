@@ -52,7 +52,7 @@ My passion lies in crafting analytical and machine learning models to transform 
   </a>
 </p>
 
-## Projects
+## Projects     <img src = "https://media3.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47wetwo80xcxna0pzv583e6d0dt1675gyaqby9tpbo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 30px>
 
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 
@@ -78,7 +78,7 @@ My passion lies in crafting analytical and machine learning models to transform 
 
 <br/>
 
-## Tools Known
+## Tools Known<img src = "https://media0.giphy.com/media/d3hGuic6x6e5mASmKR/200w.webp?cid=ecf05e47lckwlee17ouzevk1a75u5t22hvjszgc5rrc2l5av&ep=v1_gifs_related&rid=200w.webp&ct=s" width = 40px>
 
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -114,7 +114,7 @@ My passion lies in crafting analytical and machine learning models to transform 
 </a>
 </p>
 
-## Devices Worked On
+## Devices Worked On <img src = "https://media3.giphy.com/media/5xaOcLCQqP3rLs1ngM8/giphy.gif?cid=ecf05e479f12eiqhl6l4vk7vdc5xxfeu4sexjj7e65i399nx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 40px>
 
 <p align="center">
 <a href="https://www.raspberrypi.com/" target="_blank">
@@ -130,7 +130,7 @@ My passion lies in crafting analytical and machine learning models to transform 
 </a>
 </p>
 
-## Contact Me
+## Contact Me <img src = "https://i.imgur.com/92xNHIm.gif" width = 35px>
 
 I'd love to hear from you and answer any questions you may have about the applications or any other projects. Feel free to reach out to me:
 
