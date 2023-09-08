@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and more.
+<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and many more.
 	
 My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
 </p>
@@ -17,13 +17,21 @@ My passion lies in crafting analytical and machine learning models to transform 
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
+
+  <a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard." target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
   
-   <a href="" target="_blank">
-    <img alt="Tensor" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+   <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
 
    <a href="https://numpy.org/" target="_blank">
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+
+  <a href="https://matplotlib.org/" target="_blank">
+    <img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
 
    <a href="https://opencv.org/" target="_blank">
@@ -39,16 +47,14 @@ My passion lies in crafting analytical and machine learning models to transform 
       alt="git"/>
   </a>
   
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/Work-KewalShah" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
 </p>
 
 ## Projects
+
+#### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 
 <a href="https://github.com/Work-KewalShah/Weather_Report_Application">
 
@@ -68,22 +74,61 @@ My passion lies in crafting analytical and machine learning models to transform 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kewal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Work-KewalShah&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Work-KewalShah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kewal" height="192px"/>
-  <br/>
-  </p>
-</details>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Work-KewalShah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kewal" height="160px"/>
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Work-KewalShah&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+## Tools Known
+
+<p align="center">
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/> 
+</a>
+
+<a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter-Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
+</a>
+
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe-Photoshop"/> 
+</a>
+
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe-Premiere-Pro"/> 
+</a>
+
+<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-f7363a.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS-Office"/> 
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
+</a>
+</p>
+
+## Devices Worked On
+
+<p align="center">
+<a href="https://www.raspberrypi.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry-Pi"/> 
+</a>
+
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows-Pc"/> 
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-42ddf5?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> 
+</a>
+</p>
 
 ## Contact Me
 
