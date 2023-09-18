@@ -30,6 +30,10 @@ My passion lies in crafting analytical and machine learning models to transform 
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   </a>
 
+  <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-e87a1a?style=for-the-badge&logo=pytorch&logoColor=white">
+  </a>
+
   <a href="https://matplotlib.org/" target="_blank">
     <img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </a>
