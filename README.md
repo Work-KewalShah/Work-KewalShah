@@ -78,7 +78,6 @@ My passion lies in crafting analytical and machine learning models to transform 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Work-KewalShah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kewal" height="160px"/>
 
-<br/>
 
 ## Tools Known<img src = "https://media0.giphy.com/media/d3hGuic6x6e5mASmKR/200w.webp?cid=ecf05e47lckwlee17ouzevk1a75u5t22hvjszgc5rrc2l5av&ep=v1_gifs_related&rid=200w.webp&ct=s" width = 40px>
 
