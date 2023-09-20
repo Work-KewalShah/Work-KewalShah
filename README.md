@@ -1,6 +1,6 @@
 ## Hi, I’m Kewal Shah <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Vision+Engineer;A+Python+enthusiast!;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+Engineer;A+Python+enthusiast!;" /></a>
 </p>
 <br>
 
@@ -60,17 +60,15 @@ My passion lies in crafting analytical and machine learning models to transform 
 
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 
+<a href="https://github.com/Work-KewalShah/Akshadrik-Drone_Surveillance_Application">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Akshadrik-Drone_Surveillance_Application&theme=tokyonight" />
+</a>  
+
 <a href="https://github.com/Work-KewalShah/Weather_Report_App">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Weather_Report_App&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/Work-KewalShah/Python_Tkinter_Apps">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Python_Tkinter_Apps&theme=tokyonight" />
 </a>  
 
@@ -140,10 +138,10 @@ I'd love to hear from you and answer any questions you may have about the applic
 
 <p align ="center">
   <a href="mailto:work.kewalshah@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail: work.kewalshah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a><br>
    <a href="https://www.linkedin.com/in/kewal-shah-work/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn: Kewal Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </p>
 
