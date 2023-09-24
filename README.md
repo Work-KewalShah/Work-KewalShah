@@ -72,7 +72,7 @@ My passion lies in crafting analytical and machine learning models to transform 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Python_Tkinter_Apps&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/KewalShah_MindHawks_NSG_Digirakshak_Hackathon">
+<a href="https://github.com/Work-KewalShah/KewalShah_MindHawks_NSG_Digirakshak_Hackathon">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=KewalShah_MindHawks_NSG_Digirakshak_Hackathon&theme=tokyonight" />
 </a>  
 
