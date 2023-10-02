@@ -1,4 +1,4 @@
-## Hi, I’m Kewal Shah <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+## Hi, I’m Kewal Shah <img src = "https://i.imgur.com/fC5kTqm.gif" width = 30px> 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+Engineer;A+Python+enthusiast!;" /></a>
 </p>
@@ -11,7 +11,7 @@ My passion lies in crafting analytical and machine learning models to transform 
 
 
 
-## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+## Tech Stack<img src = "https://i.imgur.com/vhs9L3X.gif" width = 32px> 
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -56,7 +56,7 @@ My passion lies in crafting analytical and machine learning models to transform 
   </a>
 </p>
 
-## Projects     <img src = "https://media3.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e47wetwo80xcxna0pzv583e6d0dt1675gyaqby9tpbo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 30px>
+## Projects     <img src = "https://i.imgur.com/EyYVc4U.gif" width = 30px>
 
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 
@@ -77,13 +77,13 @@ My passion lies in crafting analytical and machine learning models to transform 
 </a>  
 
 
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## Github Stats <img src = "https://i.imgur.com/wqRJqY9.gif" width = 35px>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Work-KewalShah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Kewal" height="160px"/>
 
 
-## Tools Known<img src = "https://media0.giphy.com/media/d3hGuic6x6e5mASmKR/200w.webp?cid=ecf05e47lckwlee17ouzevk1a75u5t22hvjszgc5rrc2l5av&ep=v1_gifs_related&rid=200w.webp&ct=s" width = 40px>
+## Tools Known<img src = "https://i.imgur.com/jYL5MOd.gif" width = 40px>
 
 <p align="center">
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -119,7 +119,7 @@ My passion lies in crafting analytical and machine learning models to transform 
 </a>
 </p>
 
-## Devices Worked On <img src = "https://media3.giphy.com/media/5xaOcLCQqP3rLs1ngM8/giphy.gif?cid=ecf05e479f12eiqhl6l4vk7vdc5xxfeu4sexjj7e65i399nx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 40px>
+## Devices Worked On <img src = "https://i.imgur.com/d3wxS4l.gif" width = 40px>
 
 <p align="center">
 <a href="https://www.raspberrypi.com/" target="_blank">
