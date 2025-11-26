@@ -1,12 +1,12 @@
 ## Hi, I’m Kewal Shah <img src = "https://i.imgur.com/fC5kTqm.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+Engineer;A+Python+enthusiast!;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Cybersecurity+Enthusiast;Aspiring Ethical+Hacker+in+Training;" /></a>
 </p>
 <br>
 
-<p>I specialize in harnessing the power of Python and its rich ecosystem of frameworks and libraries, including TensorFlow, OpenCV, Tkinter, Numpy, Matplotlib, PyTorch, and many more.
+<p>I'm transitioning into cybersecurity with a focus on ethical hacking, penetration testing, and security operations. Currently building hands-on experience through homelab projects, CTF challenges, and security tool development while pursuing CompTIA certifications (Network+, Security+).
 	
-My passion lies in crafting analytical and machine learning models to transform data into actionable insights. I excel in data visualization and optimization, helping businesses and various fields of interest make informed decisions.
+My passion lies in understanding security from the ground up—from network protocols and system administration to exploit development and defensive strategies. I believe in learning by doing, which is why I actively create security tools, analyze malware, and document my journey to help others entering the field.
 </p>
 
 
