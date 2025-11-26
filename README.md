@@ -14,6 +14,20 @@ My passion lies in understanding security from the ground up—from network prot
 ## Tech Stack<img src = "https://i.imgur.com/vhs9L3X.gif" width = 32px> 
 
 <p align="center">
+  <a href="https://www.kali.org/" target="_blank">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  </a>
+
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  </a>
+	
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -21,44 +35,13 @@ My passion lies in understanding security from the ground up—from network prot
   <a href="https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20(Hypertext%20Markup%20Language%205,as%20the%20HTML%20Living%20Standard." target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-  
-   <a href="https://www.tensorflow.org/" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-e87a1a?style=for-the-badge&logo=pytorch&logoColor=white">
-  </a>
-
-  <a href="https://matplotlib.org/" target="_blank">
-    <img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  </a>
-
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-  </a>
-  
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  
-  <a href="https://github.com/Work-KewalShah" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
 </p>
+
 
 ## Projects     <img src = "https://i.imgur.com/EyYVc4U.gif" width = 30px>
 
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
+**Note**: Currently featuring existing repositories. New cybersecurity-specific projects will be added as they are developed, including payload development, penetration testing tools, and security analysis reports.
 
 <a href="https://github.com/Work-KewalShah/Akshadrik-Drone_Surveillance_Application">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Akshadrik-Drone_Surveillance_Application&theme=tokyonight" />
@@ -98,9 +81,9 @@ My passion lies in understanding security from the ground up—from network prot
     <img alt="Jupyter-Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
 
-<a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
-</a>
+</p>
+
+<p align="center">
 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe-Photoshop"/> 
@@ -119,19 +102,27 @@ My passion lies in understanding security from the ground up—from network prot
 </a>
 </p>
 
-## Devices Worked On <img src = "https://i.imgur.com/d3wxS4l.gif" width = 40px>
+## Devices & Operating Systems Worked On <img src = "https://i.imgur.com/d3wxS4l.gif" width = 40px>
 
 <p align="center">
+<a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/> 
+  </a>
+
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows-PC"/> 
+</a>
+
 <a href="https://www.raspberrypi.com/" target="_blank">
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry-Pi"/> 
 </a>
 
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows-Pc"/> 
-</a>
-
 <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-42ddf5?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> 
+</a>
+
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/> 
 </a>
 </p>
 
