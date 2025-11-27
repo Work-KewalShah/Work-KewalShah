@@ -10,7 +10,6 @@ My passion lies in understanding security from the ground up—from network prot
 </p>
 
 
-
 ## Tech Stack<img src = "https://i.imgur.com/vhs9L3X.gif" width = 32px> 
 
 <p align="center">
