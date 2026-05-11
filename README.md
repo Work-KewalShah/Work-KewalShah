@@ -42,17 +42,17 @@ My passion lies in understanding security from the ground up—from network prot
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 **Note**: Currently featuring existing repositories. New cybersecurity-specific projects will be added as they are developed, including payload development, penetration testing tools, and security analysis reports.
 
+<a href="https://github.com/Work-KewalShah/Countdown-Timer-V1">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Countdown-Timer-V1&theme=tokyonight" />
+</a> 
+
 <a href="https://github.com/Work-KewalShah/Akshadrik-Drone_Surveillance_Application">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Akshadrik-Drone_Surveillance_Application&theme=tokyonight" />
 </a>  
 
 <a href="https://github.com/Work-KewalShah/Weather_Report_App">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Weather_Report_App&theme=tokyonight" />
-</a>  
-
-<a href="https://github.com/Work-KewalShah/Python_Tkinter_Apps">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Python_Tkinter_Apps&theme=tokyonight" />
-</a>  
+</a>   
 
 <a href="https://github.com/Work-KewalShah/KewalShah_MindHawks_NSG_Digirakshak_Hackathon">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=KewalShah_MindHawks_NSG_Digirakshak_Hackathon&theme=tokyonight" />
