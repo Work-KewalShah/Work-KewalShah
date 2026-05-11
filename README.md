@@ -44,7 +44,7 @@ My passion lies in understanding security from the ground up—from network prot
 
 <a href="https://github.com/Work-KewalShah/Countdown-Timer-V1">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Countdown-Timer-V1&theme=tokyonight" />
-</a> 
+</a>
 
 <a href="https://github.com/Work-KewalShah/Akshadrik-Drone_Surveillance_Application">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Akshadrik-Drone_Surveillance_Application&theme=tokyonight" />
