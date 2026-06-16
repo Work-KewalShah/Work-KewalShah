@@ -48,10 +48,6 @@ My passion lies in understanding security from the ground up—from network prot
 
 <a href="https://github.com/Work-KewalShah/Akshadrik-Drone_Surveillance_Application">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Akshadrik-Drone_Surveillance_Application&theme=tokyonight" />
-</a>  
-
-<a href="https://github.com/Work-KewalShah/Weather_Report_App">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Weather_Report_App&theme=tokyonight" />
 </a>   
 
 <a href="https://github.com/Work-KewalShah/KewalShah_MindHawks_NSG_Digirakshak_Hackathon">
