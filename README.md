@@ -133,10 +133,3 @@ I'd love to hear from you and answer any questions you may have about the applic
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn: Kewal Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </p>
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
