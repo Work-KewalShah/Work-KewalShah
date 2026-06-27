@@ -42,6 +42,10 @@ My passion lies in understanding security from the ground up—from network prot
 #### Feel free to explore my diverse range of projects, and feedbacks are more than welcomed. Your insights are greatly appreciated!
 **Note**: Currently featuring existing repositories. New cybersecurity-specific projects will be added as they are developed, including payload development, penetration testing tools, and security analysis reports.
 
+<a href="https://github.com/Work-KewalShah/CIPHER">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=CIPHER&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/Work-KewalShah/Countdown-Timer-V1">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Work-KewalShah&repo=Countdown-Timer-V1&theme=tokyonight" />
 </a>
