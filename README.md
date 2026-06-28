@@ -204,6 +204,9 @@ I'd love to hear from you and answer any questions you may have about the projec
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn: Kewal Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a><br>
   <a href="https://drive.google.com/drive/folders/1FqTY52dr4anUgq9LRzue6Yed5Ly9GEsm?usp=drive_link" target="_blank">
-  <img alt="Resume" src="https://img.shields.io/badge/Resume-Latest-f9c11e?style=for-the-badge&logo=googledrive&logoColor=black">
-</a>
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-Latest-f9c11e?style=for-the-badge&logo=googledrive&logoColor=black">
+  </a><br>
+  <a href="https://sites.google.com/view/work-kewalshah-softskills/home/" target="_blank">
+    <img alt="Soft Skills Portfolio" src="https://img.shields.io/badge/Soft_Skills-PORTFOLIO-00BFFF?style=for-the-badge&logo=googlesites&logoColor=white">
+  </a>
 </p>
