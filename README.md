@@ -202,5 +202,8 @@ I'd love to hear from you and answer any questions you may have about the projec
   </a><br>
    <a href="https://www.linkedin.com/in/kewal-shah-work/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn: Kewal Shah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
+  </a><br>
+  <a href="https://drive.google.com/drive/folders/1FqTY52dr4anUgq9LRzue6Yed5Ly9GEsm?usp=drive_link" target="_blank">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-Latest-f9c11e?style=for-the-badge&logo=googledrive&logoColor=black">
+</a>
 </p>
