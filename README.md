@@ -10,7 +10,7 @@ My approach to learning is application-first - I build things to understand them
 </p>
 
 
-## Certifications <img src = "https://i.imgur.com/vhs9L3X.gif" width = 32px>
+## Certifications <img src = "https://i.imgur.com/wqRJqY9.giff" width = 35px>
 
 <div>
   <a href="https://www.comptia.org/certifications/network" target="_blank">
