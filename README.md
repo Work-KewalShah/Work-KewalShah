@@ -18,7 +18,7 @@ My approach to learning is application-first - I build things to understand them
   </a><br>
 
   <a href="https://www.comptia.org/certifications/security" target="_blank">
-    <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FF6B00?style=for-the-badge&logo=comptia&logoColor=white">
+    <img alt="CompTIA Security+" src="https://img.shields.io/badge/CompTIA_Security%2B-Certified_%7C_789%2F900-007ACC?style=for-the-badge&logo=comptia&logoColor=white">
   </a><br>
 
   <a href="https://www.netacad.com/" target="_blank">
