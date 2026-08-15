@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<p>Network Engineer with hands-on experience deploying and securing real-world infrastructure, and two internships at Rashtriya Raksha University working on computer vision systems for defence applications. Certified CompTIA Network+ (814/900) and actively preparing for Security+. Currently focused on building a strong cybersecurity background through homelab projects, CTF challenges, wireless security assessments, and hardware builds.
+<p>Network Engineer with hands-on experience deploying and securing real-world infrastructure, and two internships at Rashtriya Raksha University working on computer vision systems for defence applications. Certified CompTIA Network+ (814/900) and CompTIA Security+ (789/900). Currently focused on building a strong cybersecurity background through homelab projects, CTF challenges, wireless security assessments, and hardware builds.
 
 My approach to learning is application-first - I build things to understand them. That's produced a Raspberry Pi 5 pentesting cyberdeck (CIPHER), a complete embedded device shipped in 7 days (Countdown Timer V1), and a drone surveillance application presented to the Airport Authority of India. I believe the best way to understand security is to build the systems, break them, and harden them yourself.
 </p>
