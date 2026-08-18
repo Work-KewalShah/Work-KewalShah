@@ -117,14 +117,6 @@ My approach to learning is application-first - I build things to understand them
 </a>  
 
 
-## GitHub Stats <img src = "https://i.imgur.com/wqRJqY9.gif" width = 35px>
-
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Work-KewalShah&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kewal" height="160px"/>
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Work-KewalShah&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kewal" height="160px"/>
-
-
 ## Tools Known <img src = "https://i.imgur.com/jYL5MOd.gif" width = 40px>
 
 <div>
