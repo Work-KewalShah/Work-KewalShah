@@ -66,6 +66,9 @@ Currently deepening my cybersecurity background through homelab projects, wirele
   <a href="https://www.kali.org/" target="_blank">
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   </a>
+  <a href="https://tails.boum.org/" target="_blank">
+    <img alt="Tails OS" src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge&logo=tails&logoColor=white">
+  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
