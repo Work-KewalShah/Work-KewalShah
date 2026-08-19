@@ -180,6 +180,9 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe-Premiere-Pro"/>
 </a>
+<a href="https://www.adobe.com/in/products/animate.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe-Animate"/>
+</a>
 <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </a>
@@ -187,6 +190,15 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 
 **Productivity**
 <div>
+<a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</a>
+<a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://workspace.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
+</a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft%20Office-f7363a.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS-Office"/>
 </a>
