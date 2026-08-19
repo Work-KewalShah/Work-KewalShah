@@ -134,6 +134,7 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 
 ## Tools Known <img src = "https://i.imgur.com/jYL5MOd.gif" width = 40px>
 
+**Development & IDEs**
 <div>
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
@@ -147,8 +148,8 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 <a href="https://www.arduino.cc/en/software" target="_blank">
     <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
 </a>
-<a href="https://www.autodesk.com/products/fusion-360/" target="_blank">
-    <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion 360"/>
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -158,6 +159,20 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 </a>
 </div><br>
 
+**Hardware & CAD**
+<div>
+<a href="https://www.autodesk.com/products/fusion-360/" target="_blank">
+    <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion 360"/>
+</a>
+<a href="https://www.kicad.org/" target="_blank">
+    <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+</a>
+<a href="https://bambulab.com/en/software" target="_blank">
+    <img src="https://img.shields.io/badge/Bambu_Studio-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" alt="Bambu Studio"/>
+</a>
+</div><br>
+
+**Creative**
 <div>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe-Photoshop"/>
@@ -165,32 +180,35 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe-Premiere-Pro"/>
 </a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-f7363a.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS-Office"/>
-</a>
 <a href="https://www.canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
 </a>
+</div><br>
+
+**Productivity**
+<div>
+<a href="https://www.microsoft.com/en-in/microsoft-365/microsoft-office" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Office-f7363a.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS-Office"/>
+</a>
 </div>
 
-
-## Devices & Operating Systems Worked On <img src = "https://i.imgur.com/d3wxS4l.gif" width = 40px>
+## Embedded Platforms & Hardware <img src = "https://i.imgur.com/d3wxS4l.gif" width = 40px>
 
 <div>
-<a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-</a>
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows-PC"/>
-</a>
 <a href="https://www.raspberrypi.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry-Pi"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry-Pi"/>
 </a>
 <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-42ddf5?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
     <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+</a>
+<a href="https://www.espressif.com/en/products/socs/esp8266" target="_blank">
+    <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
+</a>
+<a href="https://ardupilot.org/copter/docs/common-pixhawk-overview.html" target="_blank">
+    <img src="https://img.shields.io/badge/Pixhawk-000000?style=for-the-badge&logo=ardupilot&logoColor=white" alt="Pixhawk"/>
 </a>
 </div>
 
