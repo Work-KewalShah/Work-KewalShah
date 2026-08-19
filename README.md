@@ -211,7 +211,7 @@ Currently deepening my cybersecurity background through homelab projects, wirele
     <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
 </a>
 <a href="https://ardupilot.org/copter/docs/common-pixhawk-overview.html" target="_blank">
-    <img src="https://img.shields.io/badge/Pixhawk-000000?style=for-the-badge&logo=ardupilot&logoColor=white" alt="Pixhawk"/>
+    <img src="https://img.shields.io/badge/Pixhawk-F5A623?style=for-the-badge&logo=ardupilot&logoColor=black" alt="Pixhawk"/>
 </a>
 </div>
 
