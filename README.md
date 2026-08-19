@@ -196,7 +196,10 @@ Currently deepening my cybersecurity background through homelab projects, wirele
 
 <div>
 <a href="https://www.raspberrypi.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry-Pi"/>
+    <img src="https://img.shields.io/badge/Raspberry_Pi_(4B_%7C_5)-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry-Pi"/>
+</a>
+<a href="https://www.raspberrypi.com/products/rp2040/" target="_blank">
+    <img src="https://img.shields.io/badge/RP2040_%7C_RP2350-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="RP2040 RP2350"/>
 </a>
 <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
