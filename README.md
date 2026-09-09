@@ -26,7 +26,7 @@ Currently deepening my cybersecurity background through homelab projects, wirele
   <img
     src="https://komarev.com/ghpvc/?username=smitvidja&label=Profile%20Views&color=2EA3F2&style=flat"
     alt="profile views"
-    width="100"
+    width="130"
   />
 </p>
 
