@@ -22,6 +22,7 @@ Currently deepening my cybersecurity background through homelab projects, wirele
   </a>
 </p>
 
+<!--
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=smitvidja&label=Profile%20Views&color=2EA3F2&style=flat"
@@ -29,6 +30,7 @@ Currently deepening my cybersecurity background through homelab projects, wirele
     width="130"
   />
 </p>
+-->
 
 ## Certifications <img src = "https://i.imgur.com/wqRJqY9.gif" width = 35px>
 
